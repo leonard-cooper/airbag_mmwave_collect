@@ -63,8 +63,8 @@ if __name__ == '__main__':
 
                 # 对一个range的信号进行fft操作
                 # 首先需要对数据进行加窗操作(先尝试加汉宁窗)
-                # range_win = signal.windows.blackmanharris(chirps_per_frame).reshape(chirps_per_frame, 1)
-                # mat = np.multiply(range_win, mat)
+                range_win = signal.windows.blackmanharris(chirps_per_frame).reshape(chirps_per_frame, 1)
+                mat = np.multiply(range_win, mat)
                 # # 加窗之后对数据进行fft操作
                 # per_range_fft = np.fft.fft(mat, rPad * len(mat[0]))
                 # range_fft_metrix[iAnt, frame_index, :, :] = per_range_fft
