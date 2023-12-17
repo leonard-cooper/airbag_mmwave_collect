@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['sample_1776',['sample',['../structifx___o_s_c_f_a_r___config__t.html#ab5035e101e6956d15d8cae9030735e5a',1,'ifx_OSCFAR_Config_t']]],
+  ['sample_5frate_5fhz_1777',['sample_rate_Hz',['../structifx___device___metrics___limits__t.html#a374984aaf09c71e12ac555b55fe3008f',1,'ifx_Device_Metrics_Limits_t::sample_rate_Hz()'],['../structifx___device___metrics__t.html#a572bb1e1816656cca9acc378ea59f2a6',1,'ifx_Device_Metrics_t::sample_rate_Hz()'],['../structifx___device___config__t.html#a572bb1e1816656cca9acc378ea59f2a6',1,'ifx_Device_Config_t::sample_rate_Hz()']]],
+  ['sample_5frate_5frange_5fhz_1778',['sample_rate_range_Hz',['../structifx___device___c_w___config__t.html#a27ae0c3187e46268d82d4357cd717c04',1,'ifx_Device_CW_Config_t']]],
+  ['sample_5ftime_1779',['sample_time',['../structifx___device___a_d_c___config__t.html#a54c0eab3e9b46f22cf386c0b2d2d8bb1',1,'ifx_Device_ADC_Config_t']]],
+  ['samplerate_5fhz_1780',['samplerate_Hz',['../structifx___device___a_d_c___config__t.html#a0c48c3159a7527bc27f14d11390e3ac8',1,'ifx_Device_ADC_Config_t']]],
+  ['scale_1781',['scale',['../structifx___window___config__t.html#a5b61c1f5ad9e22b746a4e5fcc756fef5',1,'ifx_Window_Config_t']]],
+  ['search_5fzone_5fend_1782',['search_zone_end',['../structifx___peak___search___config__t.html#ab031779afe0bb8dc14a2af6354e24aa7',1,'ifx_Peak_Search_Config_t']]],
+  ['search_5fzone_5fstart_1783',['search_zone_start',['../structifx___peak___search___config__t.html#a086a604d01bf621e310a0f62a784fe76',1,'ifx_Peak_Search_Config_t']]],
+  ['segments_5fdegrees_1784',['segments_degrees',['../structifx___segmentation___config__t.html#a5d9cba36c650741cd181bfb3b83a1eae',1,'ifx_Segmentation_Config_t']]],
+  ['selected_5frx_1785',['selected_rx',['../structifx___angle_capon___config__t.html#a7b32cc4e42b5d316f9b2db19e3113992',1,'ifx_AngleCapon_Config_t::selected_rx()'],['../structifx___param_estimation___config__t.html#a7b32cc4e42b5d316f9b2db19e3113992',1,'ifx_ParamEstimation_Config_t::selected_rx()']]],
+  ['shape_1786',['shape',['../structifx___device___shape___set__s.html#a1323e80338c1e8ca5f8bddf7a8c18e85',1,'ifx_Device_Shape_Set_s']]],
+  ['shield_5ftype_1787',['shield_type',['../structifx___device___info__t.html#a49a92be7fc27d0f27145344f2b2f74f8',1,'ifx_Device_Info_t']]],
+  ['shield_5fuuid_1788',['shield_uuid',['../structifx___device___list___entry__t.html#a041ee677231c455ff8b3fe35cdd26191',1,'ifx_Device_List_Entry_t']]],
+  ['size_1789',['size',['../structifx___window___config__t.html#ab2c6b258f02add8fdf4cfc7c371dd772',1,'ifx_Window_Config_t']]],
+  ['slices_1790',['slices',['../structifx___cube___r__s.html#a440b7dfc416cab95cb2d38e7a4125df8',1,'ifx_Cube_R_s::slices()'],['../structifx___cube___c__s.html#a440b7dfc416cab95cb2d38e7a4125df8',1,'ifx_Cube_C_s::slices()']]],
+  ['spect_5fthreshold_1791',['spect_threshold',['../structifx___r_d_m___config__t.html#adb93ab255f33613617cad8875e760bc4',1,'ifx_RDM_Config_t::spect_threshold()'],['../structifx___r_s___config__t.html#adb93ab255f33613617cad8875e760bc4',1,'ifx_RS_Config_t::spect_threshold()']]],
+  ['speed_1792',['speed',['../structifx___target__t.html#a1442a84d924d66b803b9c09ed197fc5b',1,'ifx_Target_t']]],
+  ['speed_5fresolution_5fm_5fs_1793',['speed_resolution_m_s',['../structifx___device___metrics___limits__t.html#a2329276f8c783697a51946ffac69b02e',1,'ifx_Device_Metrics_Limits_t::speed_resolution_m_s()'],['../structifx___device___metrics__t.html#a5050f7fa8ddb54b82c545bdd8552c4a9',1,'ifx_Device_Metrics_t::speed_resolution_m_s()']]],
+  ['state_5fchange_5fcb_1794',['state_change_cb',['../structifx___presence_sensing___config__t.html#ac2e81d10e14489c3f1b75d91f36248e6',1,'ifx_PresenceSensing_Config_t']]],
+  ['state_5fstatus_5fcb_1795',['state_status_cb',['../structifx___presence_sensing___config__t.html#ad417d36be2e3ef66e090f254e195654f',1,'ifx_PresenceSensing_Config_t']]],
+  ['static_5ftarget_5fremoval_1796',['static_target_removal',['../structifx___segmentation___config__t.html#a9b325dd8628e09b5b2ab97418df18ce8',1,'ifx_Segmentation_Config_t']]],
+  ['stride_1797',['stride',['../structifx___vector___r__s.html#a981556a4e63b7b6d9f94975c7a8930ab',1,'ifx_Vector_R_s::stride()'],['../structifx___vector___c__s.html#a981556a4e63b7b6d9f94975c7a8930ab',1,'ifx_Vector_C_s::stride()']]]
+];

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['cabs_29',['CABS',['../_defines_8h.html#ac6945cb7d2db8f89f9eac901caa7d67a',1,'Defines.h']]],
+  ['ceil_30',['CEIL',['../_defines_8h.html#ae942a914db9767fa4fde805a268004e0',1,'Defines.h']]],
+  ['center_5ffrequency_5fhz_31',['center_frequency_Hz',['../structifx___device___metrics__t.html#a882ad6e513a1a450396d44b9f8820372',1,'ifx_Device_Metrics_t::center_frequency_Hz()'],['../structifx___segmentation___config__t.html#a882ad6e513a1a450396d44b9f8820372',1,'ifx_Segmentation_Config_t::center_frequency_Hz()']]],
+  ['chirp_5frepetition_5ftime_5fs_32',['chirp_repetition_time_s',['../structifx___device___config__t.html#a632453bdcbade98d4b6d30c20037de80',1,'ifx_Device_Config_t::chirp_repetition_time_s()'],['../structifx___segmentation___config__t.html#a632453bdcbade98d4b6d30c20037de80',1,'ifx_Segmentation_Config_t::chirp_repetition_time_s()']]],
+  ['chirp_5fsetting_33',['chirp_setting',['../structifx___device___chirp___config__s.html#a024efd98a778a6519035b9b02dc784bf',1,'ifx_Device_Chirp_Config_s']]],
+  ['chirps_5fper_5fframe_34',['chirps_per_frame',['../structifx___angle_capon___config__t.html#a7811596d04bfe2e20020efb1c577cf8a',1,'ifx_AngleCapon_Config_t::chirps_per_frame()'],['../structifx___param_estimation___config__t.html#a7811596d04bfe2e20020efb1c577cf8a',1,'ifx_ParamEstimation_Config_t::chirps_per_frame()']]],
+  ['cimag_35',['CIMAG',['../_defines_8h.html#a4b305e7c9cd60987bfcd8d953c19687c',1,'Defines.h']]],
+  ['coarse_5fscalar_36',['coarse_scalar',['../structifx___o_s_c_f_a_r___config__t.html#ae7d406d0f7d8db0ec557f00102f97309',1,'ifx_OSCFAR_Config_t']]],
+  ['cols_37',['cols',['../structifx___cube___r__s.html#a506e5407bcc583441afe6823fe8f0854',1,'ifx_Cube_R_s::cols()'],['../structifx___cube___c__s.html#a506e5407bcc583441afe6823fe8f0854',1,'ifx_Cube_C_s::cols()'],['../structifx___matrix___r__s.html#a506e5407bcc583441afe6823fe8f0854',1,'ifx_Matrix_R_s::cols()'],['../structifx___matrix___c__s.html#a506e5407bcc583441afe6823fe8f0854',1,'ifx_Matrix_C_s::cols()']]],
+  ['complex_2eh_38',['Complex.h',['../_complex_8h.html',1,'']]],
+  ['config_39',['config',['../structifx___device___shape__s.html#ac6e43fd327b882a9c38a7e99f1b4cb90',1,'ifx_Device_Shape_s']]],
+  ['constantwavecontrol_2eh_40',['ConstantWaveControl.h',['../_constant_wave_control_8h.html',1,'']]],
+  ['context_5fcallback_41',['context_callback',['../structifx___presence_sensing___config__t.html#a229647eed4d46f1be53bcd4f3c20dc59',1,'ifx_PresenceSensing_Config_t']]],
+  ['coords_42',['coords',['../structifx___target__t.html#a69541b3b3c9a0341bf19de28b465a528',1,'ifx_Target_t']]],
+  ['copysign_43',['COPYSIGN',['../_defines_8h.html#a0b7f77e2473eb96891b0508e286c6d4e',1,'Defines.h']]],
+  ['cos_44',['COS',['../_defines_8h.html#af1af2de870caad797b91210f0fc6fe78',1,'Defines.h']]],
+  ['cosh_45',['COSH',['../_defines_8h.html#a06122bdfd04092936fac23f4de42d468',1,'Defines.h']]],
+  ['creal_46',['CREAL',['../_defines_8h.html#aadc886cc580025d6849ac82b0a8f7cf5',1,'Defines.h']]],
+  ['cube_2eh_47',['Cube.h',['../_cube_8h.html',1,'']]],
+  ['cur_5fpresence_5fstate_48',['cur_presence_state',['../structifx___presence_sensing___result__t.html#a099e12644413c287f63856f3b752ddfd',1,'ifx_PresenceSensing_Result_t']]],
+  ['complex_49',['Complex',['../group__gr__complex.html',1,'']]],
+  ['cube_50',['Cube',['../group__gr__cube.html',1,'']]]
+];

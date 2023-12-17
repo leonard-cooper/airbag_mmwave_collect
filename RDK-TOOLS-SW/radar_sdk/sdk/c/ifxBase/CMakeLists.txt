@@ -1,0 +1,11 @@
+file(GLOB sdk_base_src *.c *.h *.cpp *.hpp internal/*.c internal/*.h internal/*.hpp)
+add_library(sdk_base_obj OBJECT ${sdk_base_src})
+target_include_directories(sdk_base_obj PUBLIC ..)
+target_compile_definitions(sdk_base_obj PRIVATE radar_sdk_EXPORTS=1)
+if(HAS_LIBM)
+    target_link_libraries(sdk_base_obj PUBLIC m)
+endif()
+
+if(sdk_use_ipo)
+    set_property(TARGET sdk_base_obj PROPERTY INTERPROCEDURAL_OPTIMIZATION TRUE)
+endif()

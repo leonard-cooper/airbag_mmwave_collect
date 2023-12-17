@@ -1,0 +1,11 @@
+<map id="/home/build/sdk/c/ifxRadarSegmentation/ParamEstimation.h" name="/home/build/sdk/c/ifxRadarSegmentation/ParamEstimation.h">
+<area shape="rect" id="node1" title="API for Parameter estimation algorithm." alt="" coords="97,5,337,47"/>
+<area shape="rect" id="node2" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="141,393,265,420"/>
+<area shape="rect" id="node5" href="$_cube_8h.html" title="API for operations on Cube data structures." alt="" coords="109,95,229,121"/>
+<area shape="rect" id="node8" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="190,319,317,345"/>
+<area shape="rect" id="node9" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="291,244,421,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="117,468,192,495"/>
+<area shape="rect" id="node4" title=" " alt="" coords="217,468,287,495"/>
+<area shape="rect" id="node6" href="$_defines_8h.html" title="Internal definitions used by standard math.h functions as Macros, to use float or double precision." alt="" coords="43,169,179,196"/>
+<area shape="rect" id="node7" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="118,244,186,271"/>
+</map>

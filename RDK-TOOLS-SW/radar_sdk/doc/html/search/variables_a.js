@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['max_1711',['max',['../structifx___device___c_w___config__t.html#a43e74ba18dc1a237d9f7737ce8df350e',1,'ifx_Device_CW_Config_t::max()'],['../structifx___device___c_w___config__t.html#ad7135b17ae1ad3039b3d2a45b8b3c354',1,'ifx_Device_CW_Config_t::max()'],['../structifx___device___c_w___config__t.html#ace9a2491563b8555c9b757134aa15fad',1,'ifx_Device_CW_Config_t::max()'],['../structifx___device___metrics___limits__t.html#a43e74ba18dc1a237d9f7737ce8df350e',1,'ifx_Device_Metrics_Limits_t::max()'],['../structifx___device___metrics___limits__t.html#ace9a2491563b8555c9b757134aa15fad',1,'ifx_Device_Metrics_Limits_t::max()']]],
+  ['max_5fangle_1712',['max_angle',['../structifx___d_b_f___config__t.html#a1f13ee5dd9b1bfcf15480cbd1cc5eadd',1,'ifx_DBF_Config_t']]],
+  ['max_5fangle_5fdegrees_1713',['max_angle_degrees',['../structifx___angle_capon___config__t.html#a792b8e52f51d4536abfa48f627a1622b',1,'ifx_AngleCapon_Config_t::max_angle_degrees()'],['../structifx___param_estimation___config__t.html#a792b8e52f51d4536abfa48f627a1622b',1,'ifx_ParamEstimation_Config_t::max_angle_degrees()']]],
+  ['max_5fdetection_5frange_5fm_1714',['max_detection_range_m',['../structifx___presence_sensing___config__t.html#a546a1924db816c00272aac8b1e6c053b',1,'ifx_PresenceSensing_Config_t::max_detection_range_m()'],['../structifx___segmentation___config__t.html#a546a1924db816c00272aac8b1e6c053b',1,'ifx_Segmentation_Config_t::max_detection_range_m()']]],
+  ['max_5fnum_5fdetections_1715',['max_num_detections',['../structifx___d_b_s_c_a_n___config__t.html#a54cc77d26db582f6d85e1327bf40cda7',1,'ifx_DBSCAN_Config_t']]],
+  ['max_5fnum_5fpeaks_1716',['max_num_peaks',['../structifx___peak___search___config__t.html#a19b63bf143f0010620bc17048364455c',1,'ifx_Peak_Search_Config_t']]],
+  ['max_5fnum_5ftarget_1717',['max_num_target',['../structifx___param_estimation___config__t.html#ae4061c95d6367153c0f844ef8d6a91aa',1,'ifx_ParamEstimation_Config_t']]],
+  ['max_5fnum_5ftracks_1718',['max_num_tracks',['../structifx___segmentation___config__t.html#a3bef9f7ff2568f46a251c1703e5d1f8e',1,'ifx_Segmentation_Config_t']]],
+  ['max_5frange_5fm_1719',['max_range_m',['../structifx___device___metrics___limits__t.html#a554dfb548c4f10bfd5d583c02c387970',1,'ifx_Device_Metrics_Limits_t::max_range_m()'],['../structifx___device___metrics__t.html#a292ab78ebd7701a6b94176b115c0203c',1,'ifx_Device_Metrics_t::max_range_m()']]],
+  ['max_5frf_5ffrequency_5fhz_1720',['max_rf_frequency_Hz',['../structifx___device___info__t.html#a54e7644d2657e55b534819391bcb67ab',1,'ifx_Device_Info_t']]],
+  ['max_5fspeed_5fm_5fs_1721',['max_speed_m_s',['../structifx___device___metrics___limits__t.html#a416b51b61cab57c63f37036289334e86',1,'ifx_Device_Metrics_Limits_t::max_speed_m_s()'],['../structifx___device___metrics__t.html#ac053cf456618d4916a25437ae094794b',1,'ifx_Device_Metrics_t::max_speed_m_s()']]],
+  ['max_5ftx_5fpower_1722',['max_tx_power',['../structifx___device___info__t.html#a99ad29c4eb5e3f4cec029418c8f387a5',1,'ifx_Device_Info_t']]],
+  ['max_5fvalue_1723',['max_value',['../structifx___math___axis___spec__s.html#a44edc6d62a5c7b9ee6945033d859b2c7',1,'ifx_Math_Axis_Spec_s']]],
+  ['mean_5fremoval_5fenabled_1724',['mean_removal_enabled',['../structifx___p_p_f_f_t___config__t.html#a9dcccf1caae0851aa0260a89d2e18cc4',1,'ifx_PPFFT_Config_t']]],
+  ['mimo_5fmode_1725',['mimo_mode',['../structifx___device___config__t.html#abba05d8d292b30a91722a3b06c1c82d4',1,'ifx_Device_Config_t']]],
+  ['min_1726',['min',['../structifx___device___c_w___config__t.html#a0de4531998c77245b8866f2ba909d0fa',1,'ifx_Device_CW_Config_t::min()'],['../structifx___device___c_w___config__t.html#a13fefcba8b39736ea046f09942dc2cde',1,'ifx_Device_CW_Config_t::min()'],['../structifx___device___c_w___config__t.html#aec3b45f7d7a0952661a745ffb0fe7eea',1,'ifx_Device_CW_Config_t::min()'],['../structifx___device___metrics___limits__t.html#a0de4531998c77245b8866f2ba909d0fa',1,'ifx_Device_Metrics_Limits_t::min()'],['../structifx___device___metrics___limits__t.html#aec3b45f7d7a0952661a745ffb0fe7eea',1,'ifx_Device_Metrics_Limits_t::min()']]],
+  ['min_5fangle_1727',['min_angle',['../structifx___d_b_f___config__t.html#aa0d1061eb688d032a0846ef04f74151d',1,'ifx_DBF_Config_t']]],
+  ['min_5fangle_5fdegrees_1728',['min_angle_degrees',['../structifx___angle_capon___config__t.html#a4aac13812f8f2811fd638059f6a680bf',1,'ifx_AngleCapon_Config_t::min_angle_degrees()'],['../structifx___param_estimation___config__t.html#a4aac13812f8f2811fd638059f6a680bf',1,'ifx_ParamEstimation_Config_t::min_angle_degrees()']]],
+  ['min_5fdetection_5frange_5fm_1729',['min_detection_range_m',['../structifx___presence_sensing___config__t.html#ab105a8faf3c85c2f0a6fd9d42f212e91',1,'ifx_PresenceSensing_Config_t']]],
+  ['min_5fdist_1730',['min_dist',['../structifx___d_b_s_c_a_n___config__t.html#a25e57a27a4ac846a7f20e8af1ce9adc4',1,'ifx_DBSCAN_Config_t']]],
+  ['min_5fpoints_1731',['min_points',['../structifx___d_b_s_c_a_n___config__t.html#a09fc4456acd06ffddfb3006237ce2651',1,'ifx_DBSCAN_Config_t']]],
+  ['min_5frf_5ffrequency_5fhz_1732',['min_rf_frequency_Hz',['../structifx___device___info__t.html#ae2ec561d5f921693e391002317768a78',1,'ifx_Device_Info_t']]],
+  ['min_5fvalue_1733',['min_value',['../structifx___math___axis___spec__s.html#ad056e23a5e184257f0f3c9647c14ada7',1,'ifx_Math_Axis_Spec_s']]],
+  ['mode_1734',['mode',['../structifx___device___test___signal___generator__t.html#a0d2b20e857a89aafa331d4f71a8e412c',1,'ifx_Device_Test_Signal_Generator_t']]],
+  ['mti_5fweight_1735',['mti_weight',['../structifx___presence_sensing___config__t.html#adbe02e228bb990031079d991348e4072',1,'ifx_PresenceSensing_Config_t']]]
+];

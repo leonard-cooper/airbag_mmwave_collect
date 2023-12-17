@@ -1,0 +1,16 @@
+<map id="/home/build/sdk/c/ifxDevice/DeviceControl.h" name="/home/build/sdk/c/ifxDevice/DeviceControl.h">
+<area shape="rect" id="node1" title="API for Radar device control operations." alt="" coords="166,5,368,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="88,169,171,196"/>
+<area shape="rect" id="node3" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="312,319,436,345"/>
+<area shape="rect" id="node6" href="$_error_8h.html" title="API for error handling." alt="" coords="208,95,326,121"/>
+<area shape="rect" id="node9" href="$_list_8h.html" title=" " alt="" coords="22,95,133,121"/>
+<area shape="rect" id="node10" href="$_device_config_8h.html" title="API for Radar device configuration." alt="" coords="563,244,750,271"/>
+<area shape="rect" id="node11" href="$_shield_8h.html" title="Defines the Enumeration for the presence of the available Shield." alt="" coords="640,319,780,345"/>
+<area shape="rect" id="node12" href="$_frame_8h.html" title="API for Measurement Frame handling." alt="" coords="350,95,491,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="336,393,411,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="566,393,637,420"/>
+<area shape="rect" id="node7" href="$_log_8h.html" title="API for logging." alt="" coords="196,169,306,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="168,244,235,271"/>
+<area shape="rect" id="node13" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="382,169,512,196"/>
+<area shape="rect" id="node14" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="361,244,488,271"/>
+</map>

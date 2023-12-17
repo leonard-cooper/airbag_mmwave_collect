@@ -1,0 +1,10 @@
+<map id="/home/build/sdk/c/ifxBase/Cube.h" name="/home/build/sdk/c/ifxBase/Cube.h">
+<area shape="rect" id="node1" title="API for operations on Cube data structures." alt="" coords="30,5,221,47"/>
+<area shape="rect" id="node2" href="$_defines_8h.html" title="Internal definitions used by standard math.h functions as Macros, to use float or double precision." alt="" coords="5,95,141,121"/>
+<area shape="rect" id="node8" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="123,169,253,196"/>
+<area shape="rect" id="node3" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="31,169,99,196"/>
+<area shape="rect" id="node4" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="65,319,189,345"/>
+<area shape="rect" id="node7" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="63,244,190,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="41,393,116,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="141,393,211,420"/>
+</map>

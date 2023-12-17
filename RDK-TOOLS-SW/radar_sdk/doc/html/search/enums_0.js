@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ifx_5fbutterworth_5ftype_5ft_1866',['ifx_Butterworth_Type_t',['../group__gr__signal.html#gaf55e7087c4e9be49959c001d4a2e16e7',1,'Signal.h']]],
+  ['ifx_5fchirp_5fdirection_5ft_1867',['ifx_chirp_direction_t',['../_shapes_8h.html#ad4f8cabadad9fd8967cd9247b46a6dba',1,'Shapes.h']]],
+  ['ifx_5fcorrelate_5ftype_5ft_1868',['ifx_Correlate_Type_t',['../group__gr__signal.html#ga5d746a243a035a0fa4c196d27cafcfdd',1,'Signal.h']]],
+  ['ifx_5fdetection_5fsensitivity_5ft_1869',['ifx_Detection_Sensitivity_t',['../_segmentation_8h.html#af430e94aadfcbfdf56645e76fda983d2',1,'Segmentation.h']]],
+  ['ifx_5fdevice_5fadc_5foversampling_1870',['ifx_Device_ADC_Oversampling',['../_device_config_8h.html#a608fd62c5eb2bb75e1d4ad19aab4c5c6',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fadc_5fsampletime_1871',['ifx_Device_ADC_SampleTime',['../_device_config_8h.html#a75b09cc4d6dc97329c89f4d130e4be4a',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fadc_5ftracking_1872',['ifx_Device_ADC_Tracking',['../_device_config_8h.html#ae888b2fb8e640b00a813456a3a9ac32b',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fbaseband_5faaf_5fcutoff_1873',['ifx_Device_Baseband_Aaf_Cutoff',['../_device_config_8h.html#a77fa37cb297aa856a880408fa7a3b2c4',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fbaseband_5fhp_5fcutoff_1874',['ifx_Device_Baseband_Hp_Cutoff',['../_device_config_8h.html#ac634d70bd850ec30ca6f0a394661baa6',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fbaseband_5fhp_5fgain_1875',['ifx_Device_Baseband_Hp_Gain',['../_device_config_8h.html#a0fbb0b63c6156733224903fac7ff1d8f',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fbaseband_5fvga_5fgain_1876',['ifx_Device_Baseband_Vga_Gain',['../_device_config_8h.html#a2e19db1dcc3fa5564d68658060f33d44',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fmimo_5fmode_1877',['ifx_Device_MIMO_Mode',['../_device_config_8h.html#a000648dbed78bbd7f8cfd4e7b9eb03f1',1,'DeviceConfig.h']]],
+  ['ifx_5fdevice_5fradar_5ftype_5ft_1878',['ifx_Device_Radar_Type_t',['../_device_control_8h.html#a63d1f34d5a79123cdfa676afe8edc244',1,'DeviceControl.h']]],
+  ['ifx_5fdevice_5fshape_5fpower_5fmode_1879',['ifx_Device_Shape_Power_Mode',['../_shapes_8h.html#adcf84877d2fc0b23d3c138b646cd47c6',1,'Shapes.h']]],
+  ['ifx_5fdevice_5fshield_5ftype_5ft_1880',['ifx_Device_Shield_Type_t',['../group__gr__shield.html#gadf490299ad5092ec89a3999e8ca568c5',1,'Shield.h']]],
+  ['ifx_5fdevice_5ftest_5fsignal_5fgenerator_5fmode_1881',['ifx_Device_Test_Signal_Generator_Mode',['../_device_config_8h.html#acf25e8e337a56430526ab903285b0206',1,'DeviceConfig.h']]],
+  ['ifx_5ferror_5fe_1882',['ifx_Error_e',['../_error_8h.html#a579b35c305c27de6f162e47dc7c43851',1,'Error.h']]],
+  ['ifx_5ffft_5ftype_5ft_1883',['ifx_FFT_Type_t',['../_f_f_t_8h.html#a50640235a580a81b42ceba51d9f36e7e',1,'FFT.h']]],
+  ['ifx_5flog_5fseverity_5ft_1884',['ifx_Log_Severity_t',['../_log_8h.html#aa600c10ee4c1b2f544c4d887aabea5f2',1,'Log.h']]],
+  ['ifx_5fmath_5fscale_5ftype_5ft_1885',['ifx_Math_Scale_Type_t',['../_math_8h.html#a327f1341dcd2d0c8efb67765187d63c2',1,'Math.h']]],
+  ['ifx_5fpresencesensing_5fstate_5ft_1886',['ifx_PresenceSensing_State_t',['../_presence_sensing_8h.html#a33e99f12d27850649668748d3f3d470e',1,'PresenceSensing.h']]],
+  ['ifx_5frs_5fmode_5ft_1887',['ifx_RS_Mode_t',['../_range_spectrum_8h.html#af12d1111daaa47215a0ca3561c9eeaa4',1,'RangeSpectrum.h']]],
+  ['ifx_5fstatic_5ftarget_5fcancelation_5ft_1888',['ifx_Static_Target_Cancelation_t',['../_segmentation_8h.html#a48cc016a7a89e03c29d6f81fe4829d04',1,'Segmentation.h']]],
+  ['ifx_5fvector_5fsort_5forder_5ft_1889',['ifx_Vector_Sort_Order_t',['../_vector_8h.html#a4e108167ad7da59ac894ca26cd360a9b',1,'Vector.h']]],
+  ['ifx_5fwindow_5ftype_5ft_1890',['ifx_Window_Type_t',['../_window_8h.html#a4104d5848615f2111db1f3eaca27fd68',1,'Window.h']]]
+];

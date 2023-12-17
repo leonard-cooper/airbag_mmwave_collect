@@ -36,6 +36,7 @@ import matplotlib.pyplot as plt
 
 from internal.fft_spectrum import *
 
+
 # -------------------------------------------------
 # Computation
 # -------------------------------------------------
@@ -55,7 +56,7 @@ class DistanceFFT_Algo:
 
         lower_frequency_Hz = cfg["lower_frequency_Hz"]
         upper_frequency_Hz = cfg["upper_frequency_Hz"]
-        bandwith_hz = upper_frequency_Hz-lower_frequency_Hz
+        bandwith_hz = upper_frequency_Hz - lower_frequency_Hz
         fft_size = chirpsamples * 2
         self._range_bin_length = (constants.c) / (2 * bandwith_hz * fft_size / chirpsamples)
 
@@ -79,6 +80,7 @@ class DistanceFFT_Algo:
         dist = self._range_bin_length * (max + skip)
         return dist, data
 
+
 # -------------------------------------------------
 # Presentation
 # -------------------------------------------------
@@ -95,9 +97,9 @@ class Draw:
         chirpsamples = cfg["num_samples_per_chirp"]
         self._pln = []
 
-        self._fig, self._axs = plt.subplots(nrows=1, ncols=num_ant, figsize=((num_ant+1)//2,2))
+        self._fig, self._axs = plt.subplots(nrows=1, ncols=num_ant, figsize=((num_ant + 1) // 2, 2))
         self._fig.canvas.manager.set_window_title("Range FFT")
-        self._fig.set_size_inches(17/3*num_ant, 4)
+        self._fig.set_size_inches(17 / 3 * num_ant, 4)
 
         self._dist_points = np.linspace(
             0,
@@ -124,12 +126,12 @@ class Draw:
 
             data = data_all_antennas[i_ant]
             pln, = ax.plot(self._dist_points, data)
-            ax.set_ylim(minmin, 1.05 *  maxmax)
+            ax.set_ylim(minmin, 1.05 * maxmax)
             self._pln.append(pln)
 
             ax.set_xlabel("distance (m)")
             ax.set_ylabel("FFT magnitude")
-            ax.set_title("Antenna #"+str(i_ant))
+            ax.set_title("Antenna #" + str(i_ant))
         self._fig.tight_layout()
         plt.ion()
         plt.show()
@@ -146,11 +148,12 @@ class Draw:
         # Draw plots for all antennas
         # data_all_antennas: array of raw data for each antenna
 
-        if(len(self._pln)==0):
+        if (len(self._pln) == 0):
             self._draw_first_time(data_all_antennas)
         else:
             self._draw_next_time(data_all_antennas)
         plt.pause(1e-3)
+
 
 # -------------------------------------------------
 # Helpers
@@ -168,11 +171,12 @@ def parse_attr_nframes_frate(
         description=description)
 
     parser.add_argument('-n', '--nframes', type=int,
-                        default=def_nframes, help="number of frames, default "+str(def_nframes))
+                        default=def_nframes, help="number of frames, default " + str(def_nframes))
     parser.add_argument('-f', '--frate', type=int, default=def_frate,
-                        help="frame rate in Hz, default "+str(def_frate))
+                        help="frame rate in Hz, default " + str(def_frate))
 
     return parser.parse_args()
+
 
 # -------------------------------------------------
 # Main logic
@@ -180,8 +184,8 @@ def parse_attr_nframes_frate(
 if __name__ == '__main__':
     args = parse_attr_nframes_frate(
         '''Displays distance plot from Radar Data''',
-        def_nframes = 50,
-        def_frate = 5)
+        def_nframes=50,
+        def_frate=5)
 
     with Device() as device:
         # activate all RX antennas
@@ -190,17 +194,17 @@ if __name__ == '__main__':
 
         # 进行参数配置
         metric = {
-            'sample_rate_Hz':           1000000,
-            'range_resolution_m':       0.05,
-            'max_range_m':              1.6,
-            'max_speed_m_s':            3,
-            'speed_resolution_m_s':     0.2,
-            'frame_repetition_time_s':  1/args.frate,
-            'center_frequency_Hz':      60750000000,
-            'rx_mask':                  rx_mask,
-            'tx_mask':                  1,
-            'tx_power_level':           31,
-            'if_gain_dB':               33}
+            'sample_rate_Hz': 1000000,
+            'range_resolution_m': 0.05,
+            'max_range_m': 6.4,
+            'max_speed_m_s': 3,
+            'speed_resolution_m_s': 0.2,
+            'frame_repetition_time_s': 1 / args.frate,
+            'center_frequency_Hz': 60750000000,
+            'rx_mask': rx_mask,
+            'tx_mask': 1,
+            'tx_power_level': 31,
+            'if_gain_dB': 33}
 
         cfg = device.translate_metrics_to_config(**metric);
         device.set_config(**cfg)
@@ -211,13 +215,13 @@ if __name__ == '__main__':
         distance = DistanceFFT_Algo(cfg)
         draw = Draw(cfg, metric["max_range_m"], num_ant)
 
-        for frame_number in range(args.nframes): # For each frame
+        for frame_number in range(args.nframes):  # For each frame
             device.get_next_frame(frame)
 
             dist_data_all_antennas = []
             dist_peak_m_4_all_ant = []
 
-            for i_ant in range(0, num_ant): #For each antenna
+            for i_ant in range(0, num_ant):  # For each antenna
                 data = frame.get_mat_from_antenna(i_ant)
                 dist_peak_m, dist_data = distance.compute_distance(data)
 
@@ -225,5 +229,5 @@ if __name__ == '__main__':
                 dist_peak_m_4_all_ant.append(dist_peak_m)
 
                 print("Distance antenna # " + str(i_ant) + ": " +
-                    format(dist_peak_m, "^05.3f") + "m")
+                      format(dist_peak_m, "^05.3f") + "m")
             draw.draw(dist_data_all_antennas)

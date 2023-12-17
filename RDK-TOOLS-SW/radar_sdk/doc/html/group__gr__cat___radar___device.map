@@ -1,0 +1,7 @@
+<map id="Radar Device (ifxDevice)" name="Radar Device (ifxDevice)">
+<area shape="rect" id="node1" href="$group__gr__devicecontrol.html" title="API for Radar device control operations." alt="" coords="259,5,377,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,191,105"/>
+<area shape="rect" id="node3" href="$group__gr__frame.html" title="API for Measurement Frame handling." alt="" coords="287,55,349,80"/>
+<area shape="rect" id="node4" href="$group__gr__shapes.html" title="API for Shape configuration." alt="" coords="283,104,353,129"/>
+<area shape="rect" id="node5" href="$group__gr__deviceconfig.html" title="API for Radar device configuration." alt="" coords="239,153,397,179"/>
+</map>

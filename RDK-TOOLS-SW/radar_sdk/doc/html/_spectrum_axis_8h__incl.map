@@ -1,0 +1,9 @@
+<map id="/home/build/sdk/c/ifxRadar/SpectrumAxis.h" name="/home/build/sdk/c/ifxRadar/SpectrumAxis.h">
+<area shape="rect" id="node1" title="API for Spectrum Axis used by Range spectrum, Range Doppler and Range Angle Map modules." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="45,244,169,271"/>
+<area shape="rect" id="node5" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="43,95,163,121"/>
+<area shape="rect" id="node7" href="$_f_f_t_8h.html" title="API for Fast Fourier Transform (FFT)" alt="" coords="187,95,294,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="22,319,97,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="121,319,192,345"/>
+<area shape="rect" id="node6" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="95,169,221,196"/>
+</map>

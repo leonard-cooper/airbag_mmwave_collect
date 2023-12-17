@@ -1,0 +1,27 @@
+macro(setPlatformDefinition)
+    set(STRATA_TARGET_PLATFORM ${CMAKE_SYSTEM_NAME})
+    if(STRATA_TARGET_PLATFORM MATCHES "Darwin")
+        set(STRATA_TARGET_PLATFORM Macos)
+    endif()
+
+    if(CMAKE_SYSTEM_PROCESSOR MATCHES "(x86)|(X86)|(amd64)|(AMD64)")
+        set(STRATA_TARGET_ARCHITECTURE x86)
+    elseif(CMAKE_SYSTEM_PROCESSOR MATCHES "(arm)|(ARM)")
+        set(STRATA_TARGET_ARCHITECTURE arm)
+    else()
+        set(STRATA_TARGET_ARCHITECTURE UNKNOWN)
+    endif()
+
+    math(EXPR STRATA_BITNESS "${CMAKE_SIZEOF_VOID_P}*8")
+    
+    string(TOUPPER ${STRATA_TARGET_PLATFORM} STRATA_TARGET_PLATFORM_DEFINE)
+    add_definitions(-DTARGET_PLATFORM_${STRATA_TARGET_PLATFORM_DEFINE})
+
+    include(TestBigEndian)
+    test_big_endian(STRATA_TARGET_PLATFORM_BIG_ENDIAN)
+    if(STRATA_TARGET_PLATFORM_BIG_ENDIAN)
+        add_definitions(-DSTRATA_TARGET_PLATFORM_BIG_ENDIAN)
+    endif()
+
+    message(STATUS "Strata target architecture/platform: ${STRATA_TARGET_ARCHITECTURE} ${STRATA_BITNESS}bit ${STRATA_TARGET_PLATFORM}")
+endmacro()

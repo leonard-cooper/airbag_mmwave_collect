@@ -1,0 +1,41 @@
+******************
+* libAvian 0.1.5 *
+******************
+- Renamed values of enumeration types and Adc_Tracking and Test_Signal_Generator_Mode
+
+******************
+* libAvian 0.1.4 *
+******************
+- Fixed broken TX power measurement for BGT60ATR24C
+- Fixed crash when Constant_Wave_Controller is destroyed and IAvianPort throws an exception
+
+******************
+* libAvian 0.1.3 *
+******************
+- Adjusted RF limits for BGT24LTR24 (formerly called as BGT24ATR24C)
+- Introduced dedicated classes for constant wave mode and sensor measurement
+- Enumeration types are now strict C++ class enumerations
+- DeviceTraits are publicly accessible now (for expert use case!)
+
+******************
+* libAvian 0.1.2 *
+******************
+- Replaced Driver::open_device() by Driver::create_driver()
+- Adjusted allowed RF range for BGT120UTR13E
+- Fixed a potential dead lock in SPI connection test
+- Fixed SPI connection test with BGT60UTR11
+- Fixed first temperature and power measurement in CW mode with BGT60UTR11
+
+******************
+* libAvian 0.1.1 *
+******************
+- Both TX of BGT60ATR24C can be enabled at the same time
+- Fixed TX power measurement for BGT60UTR11D
+- Added support for shrinked BGT60UTR11D
+- Fixed device detection for BGT120UTR13E
+- Added support for shrinked BGT24ATR24C
+
+******************
+* libAvian 0.1.0 *
+******************
+- Initial version based on BGT60TRxx C Driver 0.8.16

@@ -1,0 +1,7 @@
+file(GLOB sdk_radar_src *.c *.h internal/*.h *.cpp *.hpp)
+add_library(sdk_radar_obj OBJECT ${sdk_radar_src})
+target_include_directories(sdk_radar_obj PUBLIC ..)
+target_compile_definitions(sdk_radar_obj PRIVATE radar_sdk_EXPORTS=1)
+if(HAS_LIBM)
+    target_link_libraries(sdk_radar_obj PUBLIC m)
+endif()

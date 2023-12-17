@@ -1,0 +1,12 @@
+<map id="/home/build/sdk/c/ifxBase/Cube.h" name="/home/build/sdk/c/ifxBase/Cube.h">
+<area shape="rect" id="node1" title="API for operations on Cube data structures." alt="" coords="317,5,508,47"/>
+<area shape="rect" id="node2" href="$_base_8h.html" title="Header for ifxBase." alt="" coords="5,273,196,315"/>
+<area shape="rect" id="node4" href="$_angle_capon_8h.html" title="API for Angle Capon algorithm." alt="" coords="111,184,307,225"/>
+<area shape="rect" id="node6" href="$_d_b_f_8h.html" title="API for Digital Beamforming (DBF) algorithm." alt="" coords="247,95,443,136"/>
+<area shape="rect" id="node7" href="$_range_angle_image_8h.html" title="API for Range Angle Image algorithm." alt="" coords="383,184,579,225"/>
+<area shape="rect" id="node8" href="$_param_estimation_8h.html" title="API for Parameter estimation algorithm." alt="" coords="518,95,758,136"/>
+<area shape="rect" id="node10" href="$_segmentation_8h.html" title="API for Segmentation algorithm." alt="" coords="783,95,1003,136"/>
+<area shape="rect" id="node3" href="$_s_d_k_8h.html" title="Master header file for Radar SDK." alt="" coords="247,363,443,404"/>
+<area shape="rect" id="node5" href="$_radar_8h.html" title="Header for ifxRadar." alt="" coords="247,273,443,315"/>
+<area shape="rect" id="node9" href="$_radar_segmentation_8h.html" title="Header for ifxRadarSegmentation." alt="" coords="603,184,862,225"/>
+</map>

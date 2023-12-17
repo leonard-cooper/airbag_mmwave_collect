@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['radius_1759',['radius',['../structifx___polar__s.html#a9057f3cfe5bc97d4def1a8c06c620153',1,'ifx_Polar_s']]],
+  ['range_1760',['range',['../structifx___target__t.html#a88c9eeccb51b091618b8f4ed3f8a66c9',1,'ifx_Target_t::range()'],['../structifx___param_estimation___result__t.html#a2c1658f7cb56ac17e9b565b5c805be1d',1,'ifx_ParamEstimation_Result_t::range()']]],
+  ['range_5fdoppler_5fmap_1761',['range_doppler_map',['../structifx___presence_sensing___result__t.html#a4a1f79908279107625071cf09d427930',1,'ifx_PresenceSensing_Result_t']]],
+  ['range_5ffft_5fconfig_1762',['range_fft_config',['../structifx___r_d_m___config__t.html#ad1f7fbe131cf842bb5cb11c1fbe5b148',1,'ifx_RDM_Config_t']]],
+  ['range_5ffft_5fsize_1763',['range_fft_size',['../structifx___presence_sensing___config__t.html#a4b8f3f1f84a17172d602978e9dd54485',1,'ifx_PresenceSensing_Config_t']]],
+  ['range_5ffft_5fwindow_5falpha_1764',['range_fft_window_alpha',['../structifx___presence_sensing___config__t.html#addf9251880744713173a800b40d1ba49',1,'ifx_PresenceSensing_Config_t']]],
+  ['range_5ffft_5fwindow_5ftype_1765',['range_fft_window_type',['../structifx___presence_sensing___config__t.html#a6bd8628efd49adc7a6419543d6bd591a',1,'ifx_PresenceSensing_Config_t']]],
+  ['range_5fhysteresis_5fpercentage_1766',['range_hysteresis_percentage',['../structifx___presence_sensing___config__t.html#a069254fdbfba8f5c6d8ec8910d05f5ac',1,'ifx_PresenceSensing_Config_t']]],
+  ['range_5fresolution_5fm_1767',['range_resolution_m',['../structifx___device___metrics___limits__t.html#af331ef59fe33b577fee821ad85fd6de5',1,'ifx_Device_Metrics_Limits_t::range_resolution_m()'],['../structifx___device___metrics__t.html#ab15c51570e4ccd554e007dda2c836f58',1,'ifx_Device_Metrics_t::range_resolution_m()']]],
+  ['range_5fspectrogram_1768',['range_spectrogram',['../structifx___presence_sensing___result__t.html#a449cbcef671734606a38e4b01590c1fb',1,'ifx_PresenceSensing_Result_t']]],
+  ['range_5fspectrum_5fmode_1769',['range_spectrum_mode',['../structifx___presence_sensing___config__t.html#aaf39d9958e25411a24f02c386872a3e7',1,'ifx_PresenceSensing_Config_t']]],
+  ['range_5fwin_5fsize_1770',['range_win_size',['../structifx___angle_capon___config__t.html#a459cb6047cee560034bfbb347e318845',1,'ifx_AngleCapon_Config_t::range_win_size()'],['../structifx___param_estimation___config__t.html#a459cb6047cee560034bfbb347e318845',1,'ifx_ParamEstimation_Config_t::range_win_size()']]],
+  ['rdm_5fconfig_1771',['rdm_config',['../structifx___r_a_i___config__t.html#a87ea68ccb01256bf30df9c02d7dd6caf',1,'ifx_RAI_Config_t']]],
+  ['rf_5ffreq_5fhz_1772',['rf_freq_Hz',['../structifx___device___c_w___config__t.html#acfb1b7782348fca5be3533eab5ba50c0',1,'ifx_Device_CW_Config_t']]],
+  ['rows_1773',['rows',['../structifx___cube___r__s.html#a11fd148437f8e38e54464cd7ec795c0e',1,'ifx_Cube_R_s::rows()'],['../structifx___cube___c__s.html#a11fd148437f8e38e54464cd7ec795c0e',1,'ifx_Cube_C_s::rows()'],['../structifx___matrix___r__s.html#a11fd148437f8e38e54464cd7ec795c0e',1,'ifx_Matrix_R_s::rows()'],['../structifx___matrix___c__s.html#a11fd148437f8e38e54464cd7ec795c0e',1,'ifx_Matrix_C_s::rows()']]],
+  ['rx_5fdata_1774',['rx_data',['../structifx___frame___r__t.html#af092470953d426f6c3f8ac7fa09514b3',1,'ifx_Frame_R_t']]],
+  ['rx_5fmask_1775',['rx_mask',['../structifx___device___c_w___config__t.html#a269b4fa513bb99a4771c7477aa19172a',1,'ifx_Device_CW_Config_t::rx_mask()'],['../structifx___device___metrics___limits__t.html#a53601dcc26a59a4b880f3da19f83c3fe',1,'ifx_Device_Metrics_Limits_t::rx_mask()'],['../structifx___device___metrics__t.html#a269b4fa513bb99a4771c7477aa19172a',1,'ifx_Device_Metrics_t::rx_mask()'],['../structifx___device___config__t.html#a269b4fa513bb99a4771c7477aa19172a',1,'ifx_Device_Config_t::rx_mask()'],['../structifx___device___antenna___setup__s.html#a0a33c8049beed3ea8831ef8ba4bde77c',1,'ifx_Device_Antenna_Setup_s::rx_mask()']]]
+];

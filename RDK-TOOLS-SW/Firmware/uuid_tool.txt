@@ -1,0 +1,17 @@
+# UUID Tool
+
+The unique id (UUID) is saved in an EEPROM on the shield. The
+shield is what is plugged into the Radar Baseboard MCU7 and which
+contains the actual radar sensor.
+
+Such that the Radar Fusion GUI detects the board the UUID must be
+correctly initialized. You can use the uuid tool to do that.
+
+You can read the EEPROM using:
+    $ uuid_tool.exe -r
+
+You can write a random UUID to the EEPROM using:
+    $ uuid_tool.exe -g
+
+For more options see the usage:
+    $ uuid_tool.exe --help

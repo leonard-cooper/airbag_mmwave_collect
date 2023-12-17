@@ -1,0 +1,4 @@
+<map id="ifx_Frame_R_t" name="ifx_Frame_R_t">
+<area shape="rect" id="node1" title="Defines the structure for a complete real frame of time domain data." alt="" coords="7,95,122,121"/>
+<area shape="rect" id="node2" href="$structifx___matrix___r__s.html" title="Defines the structure for a two&#45;dimensional floating point data array." alt="" coords="5,5,124,32"/>
+</map>

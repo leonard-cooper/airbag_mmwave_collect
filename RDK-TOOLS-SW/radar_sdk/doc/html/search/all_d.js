@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['num_5fantenna_5farray_971',['num_antenna_array',['../structifx___r_a_i___config__t.html#abecdc44329c759f7b829ff9d94440e30',1,'ifx_RAI_Config_t']]],
+  ['num_5fantennas_972',['num_antennas',['../structifx___d_b_f___config__t.html#a7ada64805ebdd11a60f06be2494ab90a',1,'ifx_DBF_Config_t']]],
+  ['num_5fbeams_973',['num_beams',['../structifx___angle_capon___config__t.html#ac30959e353953e5692aa07f3e6d932ac',1,'ifx_AngleCapon_Config_t::num_beams()'],['../structifx___d_b_f___config__t.html#ac30959e353953e5692aa07f3e6d932ac',1,'ifx_DBF_Config_t::num_beams()'],['../structifx___param_estimation___config__t.html#ac30959e353953e5692aa07f3e6d932ac',1,'ifx_ParamEstimation_Config_t::num_beams()']]],
+  ['num_5fchirps_5fper_5fframe_974',['num_chirps_per_frame',['../structifx___device___config__t.html#abfc841b29eafa76af320b80e2431abbb',1,'ifx_Device_Config_t::num_chirps_per_frame()'],['../structifx___segmentation___config__t.html#abfc841b29eafa76af320b80e2431abbb',1,'ifx_Segmentation_Config_t::num_chirps_per_frame()']]],
+  ['num_5fof_5fchirps_5fper_5fframe_975',['num_of_chirps_per_frame',['../structifx___r_s___config__t.html#a35dae8ed7edb078bf0ba84867663c766',1,'ifx_RS_Config_t']]],
+  ['num_5fof_5fimages_976',['num_of_images',['../structifx___r_a_i___config__t.html#a2baaa38c600057080f9535701d951b90',1,'ifx_RAI_Config_t']]],
+  ['num_5fof_5fsamples_977',['num_of_samples',['../structifx___device___c_w___config__t.html#a40138eb2cc64e15d2f94a9eb09d6d4e0',1,'ifx_Device_CW_Config_t']]],
+  ['num_5frepetition_978',['num_repetition',['../structifx___device___shape__s.html#a8381a04563e7a7d12b81b6c01a218f78',1,'ifx_Device_Shape_s::num_repetition()'],['../structifx___device___shape___set__s.html#a8381a04563e7a7d12b81b6c01a218f78',1,'ifx_Device_Shape_Set_s::num_repetition()']]],
+  ['num_5frx_979',['num_rx',['../structifx___frame___r__t.html#a3e801586835019ce481dbae9ea5d97b1',1,'ifx_Frame_R_t']]],
+  ['num_5frx_5fantennas_980',['num_rx_antennas',['../structifx___device___info__t.html#ae2003a1c8df805e6492a82a6024f1826',1,'ifx_Device_Info_t']]],
+  ['num_5fsamples_981',['num_samples',['../structifx___device___chirp___settings__s.html#ad405b6295e8f021b5a52b8f65f170595',1,'ifx_Device_Chirp_Settings_s']]],
+  ['num_5fsamples_5fper_5fchirp_982',['num_samples_per_chirp',['../structifx___device___config__t.html#ab18a660da006a93d818beab75e58c85e',1,'ifx_Device_Config_t::num_samples_per_chirp()'],['../structifx___segmentation___config__t.html#ab18a660da006a93d818beab75e58c85e',1,'ifx_Segmentation_Config_t::num_samples_per_chirp()']]],
+  ['num_5ftargets_983',['num_targets',['../structifx___presence_sensing___result__t.html#a7a8c5ca201336a813b5d5be8d562b6ed',1,'ifx_PresenceSensing_Result_t::num_targets()'],['../structifx___param_estimation___result__t.html#a8410fb8def43d3f4ab618d2609398346',1,'ifx_ParamEstimation_Result_t::num_targets()']]],
+  ['num_5ftemp_5fsensors_984',['num_temp_sensors',['../structifx___device___info__t.html#a23e5f1b5ddbf3d570f44917293f2402c',1,'ifx_Device_Info_t']]],
+  ['num_5ftx_5fantennas_985',['num_tx_antennas',['../structifx___device___info__t.html#a723f708ba7f8e3baa9e4451fcb581415',1,'ifx_Device_Info_t']]],
+  ['num_5fvirtual_5fantennas_986',['num_virtual_antennas',['../structifx___angle_capon___config__t.html#ac02daca7a02c0e801dc02dbdeb8f29eb',1,'ifx_AngleCapon_Config_t::num_virtual_antennas()'],['../structifx___param_estimation___config__t.html#ac02daca7a02c0e801dc02dbdeb8f29eb',1,'ifx_ParamEstimation_Config_t::num_virtual_antennas()']]]
+];

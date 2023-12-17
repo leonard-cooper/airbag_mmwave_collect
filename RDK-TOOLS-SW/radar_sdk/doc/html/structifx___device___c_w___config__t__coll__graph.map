@@ -1,0 +1,6 @@
+<map id="ifx_Device_CW_Config_t" name="ifx_Device_CW_Config_t">
+<area shape="rect" id="node1" title="Used to define a default set for the configuration values including their min and max values." alt="" coords="369,78,549,105"/>
+<area shape="rect" id="node2" href="$structifx___device___baseband___config__t.html" title="Defines the structure for the Baseband configuration." alt="" coords="17,5,180,47"/>
+<area shape="rect" id="node3" href="$structifx___device___test___signal___generator__t.html" title="Defines the structure for the Test Signal configuration." alt="" coords="13,71,184,112"/>
+<area shape="rect" id="node4" href="$structifx___device___a_d_c___config__t.html" title="Defines the structure for the ADC configuration." alt="" coords="5,137,192,163"/>
+</map>
